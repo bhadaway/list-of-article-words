@@ -10,7 +10,6 @@ for
 from
 if
 in
-into
 is
 it
 nor
