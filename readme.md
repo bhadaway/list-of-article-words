@@ -10,12 +10,12 @@ https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
 
 However, my list is slightly more opinionated. Also, the following words are not included in the list, but I sometimes struggle with them because they can often look goofy both in capitalized or non-capitalized form, depending on the context:
 
-are
-be
-do
-has
-into
-then
-this
-was
+are  
+be  
+do  
+has  
+into  
+then  
+this  
+was  
 when
