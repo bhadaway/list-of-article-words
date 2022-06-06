@@ -4,6 +4,8 @@ Find the raw list here:
 
 https://raw.githubusercontent.com/bhadaway/list-of-article-words/main/list.txt
 
+## What is Title Case?
+
 The AP/APA style guide is very good concerning title case:
 
 https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
